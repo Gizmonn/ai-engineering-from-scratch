@@ -1,7 +1,7 @@
 import torch
 import time
 
-size = 10000
+size = 12000
 
 a_cpu = torch.randn(size, size)
 b_cpu = torch.randn(size, size)
